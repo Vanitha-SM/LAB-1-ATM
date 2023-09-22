@@ -22,7 +22,10 @@ Register Number: 212222100057
 #### Activity(flow) Diagram:
 ![image](https://github.com/Vanitha-SM/LAB-1-ATM/assets/119557985/88e1b7d8-40d8-4b62-a651-be8bfb744ac5)
 
-
+#### Communication Diagram:
+![image](https://github.com/Vanitha-SM/LAB-1-ATM/assets/119557985/f425dec5-f184-4bd0-907c-98e4d4b49cde)
+#### Package Diagram:
+![image](https://github.com/Vanitha-SM/LAB-1-ATM/assets/119557985/7c17b878-c568-46d8-a793-dff62211dbfc)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
